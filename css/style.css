@@ -92,3 +92,21 @@ footer {
 .class-video {
   text-align: center;
 }
+
+table {
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #0515ee;
+  padding: 10px;
+  text-align: center;
+}
+th {
+  background-color: #1505f3;
+}
+tr:hover {
+  background-color: #6fbef3;
+}
