@@ -108,5 +108,33 @@ th {
   background-color: #1505f3;
 }
 tr:hover {
-  background-color: #6fbef3;
+  background-color: #a1d0e7;
+}
+
+.daniel {
+  width: 80%;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #30f8f8;
+  border-radius: 100px;
+  height: 20px;
+}
+
+.oliveira {
+  width: 80%;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #a6faef;
+  border-radius: 100px;
+  height: 20px;
+}
+#andrade {
+  position: relative;
+  width: 50%;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #a6faef;
+  border-radius: 100px;
+  height: 20px;
+  left: 15%;
 }
